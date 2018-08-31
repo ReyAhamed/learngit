@@ -55,3 +55,13 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.io/custom-fonts/#from-packages
+  fonts:
+    - family: Oswald
+      fonts:
+        - asset: ./lib/fonts/Oswald-SemiBold.ttf
+        - asset: ./lib/fonts/Oswald-Light.ttf
+    - family: Caviar
+      fonts:
+        - asset: ./lib/fonts/CaviarDreams_Italic.ttf
+        - asset: ./lib/fonts/Caviar_Dreams_Bold.ttf
+          style: italic
