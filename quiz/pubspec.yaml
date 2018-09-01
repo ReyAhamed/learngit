@@ -58,10 +58,10 @@ flutter:
   fonts:
     - family: Oswald
       fonts:
-        - asset: ./lib/fonts/Oswald-SemiBold.ttf
-        - asset: ./lib/fonts/Oswald-Light.ttf
+        - asset: fonts/Oswald-SemiBold.ttf
+        - asset: fonts/Oswald-Light.ttf
     - family: Caviar
       fonts:
-        - asset: ./lib/fonts/CaviarDreams_Italic.ttf
-        - asset: ./lib/fonts/Caviar_Dreams_Bold.ttf
+        - asset: fonts/CaviarDreams_Italic.ttf
+        - asset: fonts/Caviar_Dreams_Bold.ttf
           style: italic
